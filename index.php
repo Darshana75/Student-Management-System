@@ -23,7 +23,7 @@
         </form>
 
         <!-- Student List -->
-        <h3>Student List</h3>
+        <h3>Students List</h3>
         <table>
             <tr>
                 <th>ID</th>
