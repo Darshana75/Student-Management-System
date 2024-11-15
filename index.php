@@ -12,7 +12,6 @@
     <div class="container">
         <h2>Student Management System</h2>
         
-        <!-- Add Student Form -->
         <form action="add_student.php" method="POST">
             <h3>Add New Student</h3>
             <input type="text" name="name" placeholder="Full Name" required>
@@ -22,7 +21,6 @@
             <button type="submit">Add Student</button>
         </form>
 
-        <!-- Student List -->
         <h3>Students List</h3>
         <table>
             <tr>
